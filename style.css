@@ -1,0 +1,19 @@
+.primario{
+    font-family: "Arial";
+    font-size: 20px;
+    color: darkgoldenrod;
+    font-style: italic;
+
+}
+
+.img{
+    margin: 30px;
+    pad: 10px;
+    width: 250px;
+}
+
+.lista{
+    list-style: none;
+    color: darkgoldenrod;
+
+}
